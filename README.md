@@ -38,7 +38,7 @@ The playbook installs Apache (`apache2`), ensures the service is running, and de
 ## 🚀 How It Works
 
 1️⃣ Clone this repository onto your control node  
-   ```bash
+ 
    git clone https://github.com/yourusername/ansible-apache-setup.git
    cd ansible-apache-setup
 
@@ -55,7 +55,7 @@ http://your-ec2-public-ip/
 
 
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 
 🔹 Convert the playbook into an Ansible Role
 
@@ -64,5 +64,11 @@ http://your-ec2-public-ip/
 🔹 Automate EC2 provisioning with Terraform + Ansible
 
 🔹 Set up CI/CD with GitHub Actions or Jenkins
+
+
+
+![Screenshot 2025-04-04 191848](https://github.com/user-attachments/assets/02d543d7-785c-40c7-b030-03a7f7c16bb1)
+![Screenshot 2025-04-04 192744](https://github.com/user-attachments/assets/29848681-7182-4825-882c-1e11f722acae)
+
 
 
