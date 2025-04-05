@@ -1,5 +1,11 @@
 # 🚀 Ansible Apache Setup on AWS EC2
 
+![Ansible](https://img.shields.io/badge/Ansible-%230A57A1?style=flat-square&logo=ansible&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=apache&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-%232C6B7D?style=flat-square&logo=openssh&logoColor=white)
+
 This project contains an **Ansible playbook** to automate the installation and configuration of the **Apache web server** on an **AWS EC2 instance** running Ubuntu. 
 The playbook installs Apache (`apache2`), ensures the service is running, and deploys a custom `index.html` page.
 
