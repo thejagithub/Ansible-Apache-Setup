@@ -65,7 +65,7 @@ http://your-ec2-public-ip/
 
 🔹 Set up CI/CD with GitHub Actions or Jenkins
 
-
+## 📸 Example Output
 
 ![Screenshot 2025-04-04 191848](https://github.com/user-attachments/assets/02d543d7-785c-40c7-b030-03a7f7c16bb1)
 ![Screenshot 2025-04-04 192744](https://github.com/user-attachments/assets/29848681-7182-4825-882c-1e11f722acae)
